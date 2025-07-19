@@ -12,7 +12,7 @@ A simple MIPS Assembly program that solves the Bin Packing Problem using:
 - Saves results to an output file
 
 ## How to Run
-1. Open \`main.asm\` in MARS or SPIM.
+1. Open \`main.asm\` in MARS.
 2. Run the program.
 3. Follow the menu to load input, choose a method, and view/save results.
 
