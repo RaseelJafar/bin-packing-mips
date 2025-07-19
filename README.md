@@ -1,4 +1,4 @@
-echo "# Bin Packing in MIPS
+# Bin Packing in MIPS
 
 A simple MIPS Assembly program that solves the Bin Packing Problem using:
 
@@ -29,5 +29,3 @@ Example:
 0.5 0.3 0.2 0.7 0.4
 \`\`\`
 
-
-" > README.md
