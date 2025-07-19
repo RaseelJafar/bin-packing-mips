@@ -26,8 +26,8 @@ A text file with item sizes (0.0 to 1.0), separated by spaces or newlines.
 
 Example:
 
-Items: 0.4 0.8 0.1 0.4 0.2 0.1
-Bin capacity: 1.0
+**Items: 0.4 0.8 0.1 0.4 0.2 0.1
+**Bin capacity: 1.0
 
 First Fit (FF)
 Bin 1: [0.4, 0.1, 0.4, 0.1]
