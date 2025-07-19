@@ -30,12 +30,14 @@ Example:
 
 **Bin capacity:** 1.0 
 
-###First Fit (FF)
+**First Fit (FF)**
+
 Bin 1: [0.4, 0.1, 0.4, 0.1] 
 
 Bin 2: [0.8, 0.2] 
 
-###Best Fit (BF)
+**Best Fit (BF)**
+
 Bin 1: [0.4, 0.4, 0.2] 
 
 Bin 2: [0.8, 0.1, 0.1]
