@@ -25,7 +25,16 @@ A simple MIPS Assembly program that solves the Bin Packing Problem using:
 A text file with item sizes (0.0 to 1.0), separated by spaces or newlines.
 
 Example:
-\`\`\`
-0.5 0.3 0.2 0.7 0.4
-\`\`\`
+
+Items: 0.4 0.8 0.1 0.4 0.2 0.1
+Bin capacity: 1.0
+
+First Fit (FF)
+Bin 1: [0.4, 0.1, 0.4, 0.1]
+Bin 2: [0.8, 0.2]
+
+Best Fit (BF)
+Bin 1: [0.4, 0.4, 0.2]
+Bin 2: [0.8, 0.1, 0.1]
+
 
